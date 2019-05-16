@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from pandas import Series, DataFrame
 #Series and DataFrame are the workhorse of pandas 
 
