@@ -199,7 +199,7 @@ check2
 # In[70]:
 
 
-type(check)
+#type(check)
 
 
 # In[71]:
