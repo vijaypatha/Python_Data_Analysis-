@@ -240,6 +240,3 @@ pd.merge(check4, check5, left_index= True, right_index= True)
 
 # In[ ]:
 
-
-
-
